@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/titanomachy/static/css/main.a617e044.chunk.css",
+    "main.js": "/titanomachy/static/js/main.06d820cd.chunk.js",
+    "main.js.map": "/titanomachy/static/js/main.06d820cd.chunk.js.map",
+    "runtime-main.js": "/titanomachy/static/js/runtime-main.4c39f70e.js",
+    "runtime-main.js.map": "/titanomachy/static/js/runtime-main.4c39f70e.js.map",
+    "static/js/2.1bd64c43.chunk.js": "/titanomachy/static/js/2.1bd64c43.chunk.js",
+    "static/js/2.1bd64c43.chunk.js.map": "/titanomachy/static/js/2.1bd64c43.chunk.js.map",
+    "static/js/3.219d0101.chunk.js": "/titanomachy/static/js/3.219d0101.chunk.js",
+    "static/js/3.219d0101.chunk.js.map": "/titanomachy/static/js/3.219d0101.chunk.js.map",
+    "index.html": "/titanomachy/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/titanomachy/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.1bd64c43.chunk.js.LICENSE.txt": "/titanomachy/static/js/2.1bd64c43.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/titanomachy/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4c39f70e.js",
+    "static/js/2.1bd64c43.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.06d820cd.chunk.js"
+  ]
+}
